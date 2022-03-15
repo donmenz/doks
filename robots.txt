@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://donmenz.github.io/doks-demo/sitemap.xml
+Sitemap: https://donmenz.github.io/doks/sitemap.xml
